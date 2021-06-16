@@ -1,0 +1,10 @@
+com/hubspot/rest/api/model/PartnerList.class
+com/hubspot/rest/api/dao/HubspotDao.class
+com/hubspot/rest/api/service/HubspotService.class
+com/hubspot/rest/api/model/Partner.class
+com/hubspot/rest/api/service/HubbspotServiceImpl.class
+com/hubspot/rest/api/helper/HubspotHelper.class
+com/hubspot/rest/api/dao/HubspotDaoImpl.class
+com/hubspot/rest/api/HubspotApplication.class
+com/hubspot/rest/api/controller/HubspotController.class
+com/hubspot/rest/api/model/Invitation.class
